@@ -1,24 +1,29 @@
-# CyberSecurityProblem
+
+# FortifyNow
 
 ## Overview
-
-CyberSecurityProblem is a research project aimed at exploring the evolving landscape of cybersecurity threats and the challenges faced by businesses and individuals in protecting sensitive information. This project investigates various types of cyberattacks, their implications, and potential solutions.
+FortifyNow is a research project focused on understanding and addressing the evolving cybersecurity challenges faced by businesses and individuals. This project explores various types of cyberattacks, their impacts, and potential solutions, aiming to provide insights into mitigating cybersecurity risks effectively.
 
 ## Research Focus
 
 ### Business Problems
-- **Phishing Attacks**: Investigating how attackers impersonate trustworthy entities to steal sensitive information.
-- **Social Engineering Threats**: Examining the manipulation of individuals into divulging confidential information, enhanced by AI advancements.
-- **Brute Force Attacks**: Analyzing the effectiveness of traditional password security against the rising capabilities of quantum computing.
-- **Human Error**: Understanding the role of human mistakes in cybersecurity breaches and the potential for automation to mitigate these vulnerabilities.
-- **MFA Limitations**: Evaluating the effectiveness of multifactor authentication and its common pitfalls.
+- **Phishing Attacks**: Investigating tactics used by attackers to impersonate trusted entities and steal sensitive data.
+- **Social Engineering Threats**: Exploring how advancements in AI have amplified social engineering methods to manipulate individuals.
+- **Brute Force Attacks**: Assessing the risks posed by quantum computing on traditional password security.
+- **Human Error**: Analyzing the role of human mistakes in breaches and exploring automation as a preventive measure.
+- **MFA Limitations**: Examining the strengths and weaknesses of multifactor authentication.
 
 ## Goals
-The primary aim is to identify the current cybersecurity challenges and explore viable solutions that leverage technology to enhance security measures. This includes studying the implications of human factors and the limitations of existing security practices.
+Our primary aim is to identify current cybersecurity challenges and explore potential technological solutions, especially those that account for human factors and limitations in current security practices.
 
-## Conclusion
-As the threat landscape continues to evolve, this research seeks to contribute to the broader understanding of cybersecurity challenges and develop effective strategies to combat them.
+## Getting Started
+
+For those interested in the project or wanting to contribute:
+
+- **Project Repository**: [FortifyNow on GitHub](https://github.com/AD-Archer/FortifyNow)
+- **Wireframe**: [FortifyNow Wireframe on Figma](https://www.figma.com/design/0zgf6t27bsBnxU3dCALsmT/FortifyNow?node-id=0-1&t=6a4APbm8cTAFTNLp-1)
+- **Working Repo's Project Board**: [FortifyNow Project Board](https://github.com/users/AD-Archer/projects/6)
 
 ## Future Work
-Future phases of the project will involve the development and testing of proposed solutions, with an emphasis on practical applications in real-world scenarios.
+Future phases of FortifyNow will involve developing and testing proposed solutions, emphasizing real-world applications.
 
