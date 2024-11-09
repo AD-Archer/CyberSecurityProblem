@@ -1,6 +1,8 @@
 
 # FortifyNow
 
+# Note: For up-to-date slides please check the google slides link 
+
 ## Overview
 FortifyNow is a research project focused on understanding and addressing the evolving cybersecurity challenges faced by businesses and individuals. This project explores various types of cyberattacks, their impacts, and potential solutions, aiming to provide insights into mitigating cybersecurity risks effectively.
 
@@ -24,7 +26,7 @@ For those interested in the project or wanting to contribute:
 - **Wireframe**: [FortifyNow Wireframe on Figma](https://www.figma.com/design/0zgf6t27bsBnxU3dCALsmT/FortifyNow?node-id=0-1&t=6a4APbm8cTAFTNLp-1)
 - **Working Repo's Project Board**: [FortifyNow Project Board](https://github.com/users/AD-Archer/projects/6)
 - **Coding Challenge Repository**: [Coding Challenges on GitHub](https://github.com/AD-Archer/coding-challenge)
-- **Google Slides**: [GoogleDrive](https://docs.google.com/presentation/d/1ucSug63Ii_MAXpVdL1SOXJMzMgpiOaQdZff3tYi-9Cs/edit?usp=sharing)
+- **Google Slides**: [Google Slides](https://docs.google.com/presentation/d/1ucSug63Ii_MAXpVdL1SOXJMzMgpiOaQdZff3tYi-9Cs/edit?usp=sharing)
 ## Future Work
 Future phases of FortifyNow will involve developing and testing proposed solutions, emphasizing real-world applications.
 
