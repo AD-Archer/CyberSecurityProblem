@@ -1,6 +1,3 @@
-Here's an edited version:
-
----
 
 # FortifyNow
 
